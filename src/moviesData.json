@@ -1,0 +1,130 @@
+[
+    {
+        "id": 0,
+        "title": "Space Dust", 
+        "type": "Hero",
+        "heading": "Watch Episode 1 Now",
+        "subheading": "The exciting thriller about Earth and its history, revealed for the first time on Protenusflix",
+        "img": "https://images.unsplash.com/photo-1612464334366-cb0455f0ad56?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=1920&q=80"
+    },
+    {
+        "id": 1,
+        "title": "First Love, Last Rites",
+        "type": "Trending Now",
+        "img": "https://images.unsplash.com/photo-1478827217976-7214a0556393?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 2,
+        "title": "I Married a Strange Person",
+        "type": "Trending Now",
+        "img": "https://images.unsplash.com/photo-1444583791700-0bd8d26df657?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 3,
+        "title": "Let's Talk About Dogs",
+        "type": "Trending Now",
+        "img": "https://images.unsplash.com/photo-1463567727315-4a5cc526b47c?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 4,
+        "title": "Slam",
+        "type": "Trending Now",
+        "img": "https://images.unsplash.com/photo-1517855076686-d8e542939af7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 5,
+        "title": "Mississippi Mermaid",
+        "type": "Trending Now",
+        "img": "https://images.unsplash.com/photo-1447157290078-6c6fc720fdd9?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 8,
+        "title": "Pirates",
+        "type": "Latest Premiere",
+        "img": "https://images.unsplash.com/photo-1501624886806-2be98cd30b16?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 9,
+        "title": "Duel in the Sun",
+        "type": "Latest Premiere",
+        "img": "https://images.unsplash.com/photo-1511452034832-1652744f23e7?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 10,
+        "title": "Tom Jones",
+        "type": "Latest Premiere",
+        "img": "https://images.unsplash.com/photo-1554896860-3a35184890c8?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 11,
+        "title": "Oliver!",
+        "type": "Latest Premiere",
+        "img": "https://images.unsplash.com/photo-1558002890-152b73b5c324?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 12,
+        "title": "To Kill A Mockingbird",
+        "type": "Latest Premiere",
+        "img": "https://images.unsplash.com/photo-1549210294-5536b001a7fb?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 13,
+        "title": "Tora, Tora, Tora",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1576757965461-b2849cea3cef?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 14,
+        "title": "Hollywood Shuffle",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1574167701654-856d6406583e?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 15,
+        "title": "Over the Hill to the Poorhouse",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1601556528661-02d5ce8adb2b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 16,
+        "title": "Wilson",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1593172340643-b2858dd4f749?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 17,
+        "title": "Darling Lili",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1580418003635-0686f6d31d9b?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 18,
+        "title": "The Ten Commandments", 
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1582705882297-395448494e6a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 19,
+        "title": "12 Angry Men", 
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1583263496887-4e3046c78090?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 20,
+        "title": "Twelve Monkeys",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1559564121-c8560e1c9149?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 6,
+        "title": "Following",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1507850538211-c5b73a2bcd05?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    },
+    {
+        "id": 7,
+        "title": "Foolish",
+        "type": "Continue Watching",
+        "img": "https://images.unsplash.com/photo-1510195731510-bfea919c8cf0?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=450&q=80"
+    }
+]

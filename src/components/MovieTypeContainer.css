@@ -1,0 +1,3 @@
+.movie-container-navigator {
+    @apply absolute top-0 h-full bg-gray-900 w-16 bg-opacity-0 hover:bg-opacity-25 cursor-pointer flex flex-col justify-center
+}

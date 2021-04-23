@@ -1,0 +1,34 @@
+body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+      "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+      sans-serif;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+  }
+  
+  @tailwind base;
+  @tailwind components;
+  
+  .nav-link {
+    @apply text-gray-300 mr-6 hidden md:block;
+  }
+  
+  .nav-link:hover {
+    @apply text-gray-100;
+  }
+  
+  .outline-button {
+    @apply font-medium border rounded px-2 py-1 border border-gray-500 text-gray-500;
+  }
+  
+  .queue-button {
+    @apply text-brand-500 bg-white border-brand-500;
+  }
+  
+  .queue-button:hover {
+    @apply bg-brand-500 text-white;
+  }
+  
+  @tailwind utilities;
+  
