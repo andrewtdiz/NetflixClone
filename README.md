@@ -11,9 +11,8 @@ Beyond that I was free to add to the application as I saw fit.
 
 This repository is essentially a bootstrapped [Create React App](https://github.com/facebookincubator/create-react-app) project with some slight modifications, including the addition of the TailwindCSS library. To get started you will want to:
 
-1. Install npm
-1. Install create-react-app globally with ```npm install -g create-react-app```
-1. Start up the application by executing ```npm start``` from within the ui-code-challenge directory
+1. Install with ```yarn```
+1. Start up the application by executing ```yarn start``` from within the ui-code-challenge directory
 1. The application should be accessible in your browser via ```http://localhost:3000```
 
 That's it! From this point on you can go wild with repository.
